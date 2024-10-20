@@ -1,0 +1,15 @@
+{
+  "products": [
+    { "id": 1, "name": "A", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 2, "name": "B", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 3, "name": "C", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 4, "name": "D", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 5, "name": "E", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 6, "name": "F", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 7, "name": "G", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 8, "name": "H", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 9, "name": "I", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" },
+    { "id": 10, "name": "J", "quantity": 1000, "inDate": "2023-12-31", "expiredDate": "2024-01-01", "quality": "Fresh" }
+  ],
+  "transactions": []
+}
